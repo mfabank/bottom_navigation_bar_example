@@ -1,16 +1,5 @@
 # bottom_navigation_bar_example
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![bottom1](https://user-images.githubusercontent.com/53713274/101224074-af607900-369e-11eb-8726-a5a8dd887e9f.jpg)
+![bottom0](https://user-images.githubusercontent.com/53713274/101224077-b12a3c80-369e-11eb-902c-625ac1e3db3c.jpg)
+![bottom2](https://user-images.githubusercontent.com/53713274/101224078-b1c2d300-369e-11eb-8fbc-f077101c8987.jpg)
